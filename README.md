@@ -1,5 +1,5 @@
 
-
+<img width="1785" height="945" alt="Screenshot 2026-02-05 155305" src="https://github.com/user-attachments/assets/fc014018-ef8c-4c17-8011-7bc8f5ed6025" />
 # Gesture-Controlled Mouse with MediaPipe
 
 A high-performance Python application that allows you to control your computer's mouse using hand gestures via a webcam (or Iriun USB/Wi-Fi camera).
