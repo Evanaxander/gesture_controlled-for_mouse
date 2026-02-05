@@ -90,6 +90,7 @@ You can adjust the following variables in `main.py` to suit your needs:
 * **Mouse hits corner and script stops**: The `pyautogui.FAILSAFE` is set to `False` in this script, but ensure you move your hand back into view to regain control.
 * **Iriun Camera not found**: Change `cv2.VideoCapture(0)` to `1` or `2` depending on how many cameras are connected to your PC.
 
-<img width="1488" height="825" alt="Screenshot 2026-02-05 155241" src="https://github.com/user-attachments/assets/13c85b01-1413-4dc7-9143-43aa9adaebde" />
+<img width="1785" height="945" alt="Screenshot 2026-02-05 155305" src="https://github.com/user-attachments/assets/fc014018-ef8c-4c17-8011-7bc8f5ed6025" />
+
 
 
